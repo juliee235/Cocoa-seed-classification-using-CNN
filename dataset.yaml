@@ -1,0 +1,10 @@
+names:
+  0: 'Purple '
+  1: Brown
+path: /content/drive/MyDrive/Cocoa
+train: train.txt
+val: val.txt
+
+degrees : 20
+fliplr: 0.5
+flipud: 0.5
